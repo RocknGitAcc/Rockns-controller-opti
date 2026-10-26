@@ -19,3 +19,7 @@ Dashboard (live input), Sticks, Triggers, profiles (save, duplicate, rename, del
 
 ## Not built yet (needs the native Windows app)
 Feel (adaptive triggers, rumble), Remapping, Macros, Chords, Touchpad, Appearance, Lightbar.
+
+## Install as an app (for friends)
+Once the site is live on GitHub Pages, open its link in Chrome or Edge and click the install icon in the address bar (or the browser menu, then "Install Controller Studio"). It then opens in its own window and works offline.
+Settings are stored per browser; use Export JSON / Import JSON to share a profile.
